@@ -3,6 +3,6 @@
 from setuptools import setup, find_packages
 
 setup(
-	name='django-ab'
+	name='django-ab',
 	packages=find_packages()
 )
